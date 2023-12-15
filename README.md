@@ -5,3 +5,6 @@
 
 *praktikum 2 : operator
 `praktikum-d2-py`
+
+*praktikum 3 : string
+`praktikum-d3-py`
