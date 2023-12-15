@@ -8,3 +8,6 @@
 
 *praktikum 3 : string
 `praktikum-d3-py`
+
+*praktikum 4 : list
+`praktikum-d4-py`
