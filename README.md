@@ -23,3 +23,16 @@
 
 *Praktikum 8 : Password Berlapis
 `praktikum-d8-py`
+
+*Tugas 1 : Dictionaries
+`Tugas pemograman-1.py`
+
+*Tugas 2 : Ganjil Genap
+`Tugas pemograman-2.py`
+
+*Tugas 3 : Jam
+`Tugas pemograman-3.py`
+
+
+
+
