@@ -33,6 +33,15 @@
 *Tugas 3 : Jam
 `Tugas pemograman-3.py`
 
+*Tugas percabangan 1 : Batasan Nilai
+`231031107-MUHAMMAD APRISAL-percabangan1`
 
+*Tugas percabangan 2 : Panjang STR
+`231031107-MUHAMMAD APRISAL-percabangan2`
 
+*Tugas percabangan 3 : Batasan Pendapatan
+`231031107-MUHAMMAD APRISAL-percabangan3`
+
+*Tugas percabangan 4 : Persentase
+`231031107-MUHAMMAD APRISAL-percabangan4`
 
