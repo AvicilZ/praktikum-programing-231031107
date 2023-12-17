@@ -14,3 +14,12 @@
 
 *praktikum 5 : Perulangan
 `praktikum-d5-py`
+
+*Praktikum 6 : While True
+`praktikum-d6-py`
+
+*Praktikum 7 : Membuat Password
+`praktikum-d7-py`
+
+*Praktikum 8 : Password Berlapis
+`praktikum-d8-py`
